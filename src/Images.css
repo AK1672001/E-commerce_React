@@ -1,0 +1,133 @@
+/* .Images-box{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 5%;
+   padding-left: 5%;
+   padding-right: 5%;
+}
+
+
+.box{
+    width: 25%;
+    height:400px;
+    border: 1px solid black;
+    box-shadow: 4px 3px rgb(90, 91, 91);
+    border-radius: 5px;
+    
+}
+.Images-box1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+ }
+ .box1{
+    width: 25%;
+    height:400px;
+    border: 2px solid black;
+}
+.Images-box2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+ }
+ .box2{
+    width: 25%;
+    height:400px;
+    border: 2px solid black;
+}
+
+
+.phone{
+    width: 110%;
+    height:280px;
+    padding-right: 6%;
+    margin-top: 2%;
+    
+    
+}
+.samsung-heading{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.phone-1{
+    text-align: center;
+    margin-top: 3%;
+}
+
+
+.btn{
+   padding: 7px 20px;
+   background-color: aqua;
+   position: absolute;
+   left: 8%;
+   margin-top: 0.5%;
+   border-radius: 6px;
+}
+.btn2{
+    position: absolute;
+    left: 17%;
+    padding: 7px 20px;
+    background-color: rgb(227, 134, 13);
+    margin-top: 0.5%;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: coral;
+}
+.laptop-6{
+    width: 100%;
+    height:280px;
+   
+    margin-top: 0%;
+    
+}
+
+.btn-1{
+    padding: 7px 20px;
+    background-color: aqua;
+    position: absolute;
+    left: 43%;
+    margin-top: 0.5%;
+    border-radius: 6px;
+ }
+ .btn-3{
+     position: absolute;
+     left: 52%;
+     padding: 7px 20px;
+     background-color: rgb(227, 134, 13);
+     margin-top: 0.5%;
+     border-radius: 8px;
+     cursor: pointer;
+ }
+.samsung-7{
+    width: 100%;
+    height:280px;
+   
+    margin-top: 0%;
+    
+}
+.btn-4{
+    padding: 7px 20px;
+    background-color: aqua;
+    position: absolute;
+    left: 77%;
+    margin-top: 0.5%;
+    border-radius: 6px;
+ }
+ .btn-5{
+     position: absolute;
+     left: 85%;
+     padding: 7px 20px;
+     background-color: rgb(227, 134, 13);
+     margin-top: 0.5%;
+     border-radius: 8px;
+     cursor: pointer;
+ }
+
+ */
